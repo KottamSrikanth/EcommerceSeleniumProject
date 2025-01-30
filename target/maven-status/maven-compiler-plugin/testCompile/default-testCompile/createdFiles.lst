@@ -1,0 +1,5 @@
+com\EcommerceProject\Qa\TestCases\RegisterAccount.class
+com\EcommerceProject\Qa\TestCases\Login.class
+com\EcommerceProject\Qa\TestCases\Search.class
+com\EcommerceProject\Qa\Base\Base.class
+com\EcommerceProject\Qa\TestCases\GenerateFakeData.class
