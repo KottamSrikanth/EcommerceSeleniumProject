@@ -99,7 +99,7 @@ public class RegisterAccount extends Base
 		Assert.assertTrue(telephone.equals("Telephone must be between 3 and 32 characters!"));
 		
 		String password=rp.getPasswordWarningMsg();
-		Assert.assertTrue(password.equals("Password must be between 4 and 20 characters!!"));
+		Assert.assertTrue(password.equals("Password must be between 4 and 20 characters!"));
 	}
 
 }
